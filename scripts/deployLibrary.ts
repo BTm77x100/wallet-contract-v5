@@ -1,4 +1,4 @@
-import { toNano } from 'ton-core';
+import<1 { toNano } from 'ton-core';>
 import { compile, NetworkProvider } from '@ton/blueprint';
 import 'dotenv/config';
 import { LibraryDeployer } from '../wrappers/library-deployer';
